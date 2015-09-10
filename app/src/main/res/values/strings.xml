@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ColorActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="color_message">Please pick a color below.</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_color">ColorActivity</string>
+    
+    <string-array name="color_chooser">
+        <item>No item selected</item>
+        <item>Red</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Cyan</item>
+        <item>Gray</item>
+    </string-array>
+
+</resources>
